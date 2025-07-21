@@ -1,11 +1,9 @@
-✌ Hello, my name is Matthew, alias MATEQH.
+✌️ Hello, my name is Matthew, also known as MATEQH.
 
-⛏ I'm a web developer and Minecraft plugin developer with 4+ years of experience in Java and the Bukkit-API.
+💻 I’m a full-stack web developer and Minecraft plugin developer with over 4 years of experience in Java and the Bukkit API.
 
-🌐 In addition to plugin development, I also create web applications using technologies like React, Tailwind CSS, and Node.js.
+🌐 I build modern web applications using technologies like React, TypeScript, Tailwind CSS, Node.js, and Spring Boot.
 
-🔥 Some of my projects can be found on SpigotMC.
+🚀 Since June 5, 2025, I’ve been working with CloudClient as a developer, contributing to innovative Minecraft-related tools and services.
 
-♨ Need a unique plugin or a custom web application? Join our [Discord server](https://discord.com/invite/CAnmEWuFf4) and open a ticket.
-
-✍ If you want to DM me, you can do so on Discord: Matthew#0110.
+📬 Prefer a direct message? You can contact me on Discord: Matthew#0110
